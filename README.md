@@ -1,4 +1,5 @@
 # Hello-World
+对feature分支的修改，会仅存在于feature分支，而不在main分支
 practice-for-creating
 ## 课程的主要内容
 1. 课程综述
